@@ -39,4 +39,4 @@ You can download the **Power BI (.pbix) file** and explore the dataset & visuals
 ## 🛠️ How to Use  
 1. **Clone the repository:**  
    ```bash
-   git clone (https://github.com/Sonia1597/EV-Data-Analysis-Dashboard-Power-BI.git)
+   git clone https://github.com/Sonia1597/EV-Data-Analysis-Dashboard-Power-BI.git
