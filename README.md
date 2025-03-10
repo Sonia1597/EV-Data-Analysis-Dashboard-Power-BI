@@ -11,7 +11,7 @@ This project analyzes electric vehicle (EV) data to uncover insights into vehicl
 ## 🔗 View & Download  
 You can download the **Power BI (.pbix) file** and explore the dataset & visuals yourself!  
 
-👉 **[Download the Power BI File](https://github.com/your-username/EV-Data-Analysis-Dashboard/blob/main/EV%20Dashboard.pbix](https://github.com/Sonia1597/EV-Data-Analysis-Dashboard-Power-BI/blob/main/EV%20Assignment.pbix)**  
+👉 **[Download the Power BI File](https://github.com/Sonia1597/EV-Data-Analysis-Dashboard-Power-BI/blob/main/EV%20Assignment.pbix)**  
 
 ---
 
