@@ -5,7 +5,8 @@ This project analyzes electric vehicle (EV) data to uncover insights into vehicl
 ---
 
 ## 📸 Dashboard Preview  
-![image](https://github.com/user-attachments/assets/d3c6ff2a-ea92-43ed-b624-b8be1999ef54)
+![image](https://github.com/user-attachments/assets/307c7e30-5dfa-4eaf-8eb3-27c0c28b36c6)
+![image](https://github.com/user-attachments/assets/50f6f91c-4b43-43b9-b4e5-ab5a4cdabfb5)
 
 
 ## 🔗 View & Download  
